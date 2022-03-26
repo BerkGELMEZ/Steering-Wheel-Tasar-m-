@@ -1,0 +1,2 @@
+# Steering-Wheel-Tasar-m-
+Oyun direksiyonu gerektiren oyun ve oyun platformları için çalışmalarına devam ettiğim "Steering Wheel Tasarımı". Gerçek bir araba direksiyon özelliklerini taşıyacak olan çizim , Solidworks programı üzerinden çizilmektedir. Hali hazırda çalışmalarına devam ettiğim F1 Shifter , sinyal kolları , 720 derece dönebilen direksiyon özelliklerini çizime dahil etmek amacıyla çalışmalarıma devam etmekteyim.
